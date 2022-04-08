@@ -1,0 +1,15 @@
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\bin\Debug\net6.0\Factory Method Pattern.exe
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\bin\Debug\net6.0\Factory Method Pattern.deps.json
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\bin\Debug\net6.0\Factory Method Pattern.runtimeconfig.json
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\bin\Debug\net6.0\Factory Method Pattern.dll
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\bin\Debug\net6.0\ref\Factory Method Pattern.dll
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\bin\Debug\net6.0\Factory Method Pattern.pdb
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.csproj.AssemblyReference.cache
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.AssemblyInfoInputs.cache
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.AssemblyInfo.cs
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.dll
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\ref\Factory Method Pattern.dll
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.pdb
+C:\Users\Alef\Documents\ProjetosC#\Factory Method Pattern\obj\Debug\net6.0\Factory Method Pattern.genruntimeconfig.cache
